@@ -1,0 +1,11 @@
+numpy
+langchain-community
+pypdf
+faiss-cpu
+transformers
+torch
+sentence-transformers
+langchain-huggingface
+tqdm
+ipywidgets
+pymupdf
