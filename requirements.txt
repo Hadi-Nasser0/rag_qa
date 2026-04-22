@@ -1,4 +1,6 @@
 numpy
+langchain
+langchain-core
 langchain-community
 pypdf
 faiss-cpu
